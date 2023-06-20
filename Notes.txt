@@ -1,0 +1,21 @@
+Interview preparation - https://chat.openai.com/share/89f226ad-531d-4fb8-8a8b-6428f593e994
+
+Programming History:
+
+1. machine language
+2. Assembly language
+3. Structured Programming languages
+4. Object oriented programming languages
+5. Functional programming languages
+6. Generative AI
+
+
+Suggestions/Tips:
+
+1. Make it simple while defining anything.
+2. When you are about to explain anything about technology, you are not supposed to use 
+   technical words.
+3. Don't listen to your seniors for advice who has >10 years exp, for java language.
+4. Computers will listen to you, learning.
+5. Whenever an interviewer asks an question, always prepare to tell an answer which 
+   differentiate you from others.
